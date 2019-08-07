@@ -1,0 +1,8 @@
+respring
+
+start logging
+install package
+kill nfcd
+
+
+return True for _NFHardwareManager-IsReaderModeSupported
