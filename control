@@ -1,9 +1,9 @@
 Package: com.haotestlabs.nfcbackground
 Name: NFCBackground
 Depends: mobilesubstrate
-Version: 1.0.2-1
+Version: 1.0.2-2
 Architecture: iphoneos-arm
-Description: !!DEBUG PACKAGE!! Enables background reading of NFC tags on Iphone7 and up. This is mainly a helper tweak for others.
+Description: Enables background reading of NFC tags on Iphone7 and up. This is mainly a helper tweak for others.
 Maintainer: ArandomDev <haow6449@gmail.com>
 Author: ArandomDev <haow6449@gmail.com>
 Section: Tweaks
