@@ -1,7 +1,4 @@
-THEOS_DEVICE_IP = haotestlabs.com
-THEOS_DEVICE_PORT = 28262
-
-ARCHS = arm64
+ARCHS = arm64 arm64e
 
 include $(THEOS)/makefiles/common.mk
 
