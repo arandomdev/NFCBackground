@@ -43,8 +43,3 @@ extern "C" CFNotificationCenterRef CFNotificationCenterGetDistributedCenter(void
 	HBLogDebug(@"exit");
 }
 %end
-
-%ctor {
-	HBLogDebug(@"Hooked into nfcd daemon");
-	%init;
-}
